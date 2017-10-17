@@ -4,6 +4,7 @@
   "description": "xiaoaojiao template",
   "main": "index.js",
   "scripts": {
+    "start": "echo start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/TSOHO/template-H5/issues"
   },
-  "homepage": "https://github.com/TSOHO/template-H5#readme"
+  "homepage": "https://github.com/TSOHO/template-H5#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
